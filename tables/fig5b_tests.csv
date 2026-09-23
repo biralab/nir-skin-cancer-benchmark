@@ -1,0 +1,19 @@
+Class,vs,p_delong,p_delong_holm,p_boot,p_boot_holm
+benign,PLS-DA+SVM,0.00134,0.00268,0.028,0.056
+benign,PCA-LDA,0.15432,0.15432,0.226,0.226
+benign,Random Forest,0.00029,0.00088,0.009,0.027
+benign,1D-CNN,0.0,1e-05,0.001,0.004
+benign,Hybrid CNN-Tr.,0.0,0.0,0.0,0.0
+benign,Pure Transformer,0.0,0.0,0.0,0.0
+pre-malignant (AK),PLS-DA+SVM,0.35798,0.38989,0.513,0.672
+pre-malignant (AK),PCA-LDA,0.09088,0.27264,0.189,0.567
+pre-malignant (AK),Random Forest,0.19494,0.38989,0.336,0.672
+pre-malignant (AK),1D-CNN,3e-05,0.00016,0.006,0.03
+pre-malignant (AK),Hybrid CNN-Tr.,1e-05,6e-05,0.002,0.012
+pre-malignant (AK),Pure Transformer,0.00025,0.001,0.011,0.044
+carcinoma (BCC/SCC),PLS-DA+SVM,0.59826,1.0,0.633,1.0
+carcinoma (BCC/SCC),PCA-LDA,0.25033,0.75099,0.299,0.897
+carcinoma (BCC/SCC),Random Forest,0.7,1.0,0.752,1.0
+carcinoma (BCC/SCC),1D-CNN,0.01181,0.04725,0.021,0.084
+carcinoma (BCC/SCC),Hybrid CNN-Tr.,0.00025,0.00149,0.0,0.0
+carcinoma (BCC/SCC),Pure Transformer,0.00913,0.04565,0.015,0.075

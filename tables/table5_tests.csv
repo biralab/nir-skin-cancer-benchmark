@@ -1,0 +1,9 @@
+test,p
+Friedman (7 models x 20 seeds),6.167078809271628e-22
+Levene (classical vs deep variance),0.001806477817626623
+Wilcoxon vs Logistic Reg.: PLS-DA+SVM,5.7220458984375e-06
+Wilcoxon vs Logistic Reg.: Random Forest,5.7220458984375e-06
+Wilcoxon vs Logistic Reg.: 1D-CNN,5.7220458984375e-06
+Wilcoxon vs Logistic Reg.: Hybrid CNN-Tr.,5.7220458984375e-06
+Wilcoxon vs Logistic Reg.: Pure Transformer,5.7220458984375e-06
+Wilcoxon vs Logistic Reg.: PCA-LDA,0.0009927749633789062

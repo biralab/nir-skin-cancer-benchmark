@@ -1,0 +1,43 @@
+metric,vs,p_raw,p_holm
+AUC,Pure Transformer,0.0,0.0
+AUC,Hybrid CNN-Tr.,0.002,0.01
+AUC,1D-CNN,0.01,0.04
+AUC,PCA-LDA,0.02,0.06
+AUC,Random Forest,0.053,0.106
+AUC,PLS-DA+SVM,0.297,0.297
+PR-AUC,Pure Transformer,0.001,0.006
+PR-AUC,Hybrid CNN-Tr.,0.004,0.02
+PR-AUC,1D-CNN,0.033,0.132
+PR-AUC,PLS-DA+SVM,0.124,0.372
+PR-AUC,PCA-LDA,0.156,0.372
+PR-AUC,Random Forest,0.163,0.372
+Brier,Hybrid CNN-Tr.,0.0,0.0
+Brier,Pure Transformer,0.0,0.0
+Brier,1D-CNN,0.002,0.008
+Brier,PCA-LDA,0.266,0.798
+Brier,PLS-DA+SVM,0.301,0.798
+Brier,Random Forest,0.466,0.798
+ECE,Hybrid CNN-Tr.,0.0,0.0
+ECE,Pure Transformer,0.001,0.005
+ECE,1D-CNN,0.006,0.024
+ECE,PLS-DA+SVM,0.09,0.27
+ECE,Random Forest,0.269,0.538
+ECE,PCA-LDA,0.565,0.565
+Sens,1D-CNN,0.0,0.0
+Sens,Hybrid CNN-Tr.,0.0,0.0
+Sens,Pure Transformer,0.0,0.0
+Sens,PLS-DA+SVM,0.001,0.003
+Sens,PCA-LDA,0.047,0.094
+Sens,Random Forest,0.063,0.094
+Spec,Pure Transformer,0.0,0.0
+Spec,Hybrid CNN-Tr.,0.001,0.005
+Spec,Random Forest,0.005,0.02
+Spec,1D-CNN,0.024,0.07200000000000001
+Spec,PCA-LDA,0.062,0.124
+Spec,PLS-DA+SVM,0.607,0.607
+F1,Hybrid CNN-Tr.,0.0,0.0
+F1,Pure Transformer,0.0,0.0
+F1,1D-CNN,0.001,0.004
+F1,PLS-DA+SVM,0.021,0.063
+F1,PCA-LDA,0.386,0.772
+F1,Random Forest,0.937,0.937

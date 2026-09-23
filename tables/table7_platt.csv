@@ -1,0 +1,3 @@
+Setting,AUC,Brier,ECE
+Raw probabilities,0.7738,0.1516,0.0768
+After Platt scaling,0.7566,0.1498,0.0379

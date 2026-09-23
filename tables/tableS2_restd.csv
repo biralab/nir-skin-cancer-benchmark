@@ -1,0 +1,8 @@
+model,AUC,lo,hi
+Logistic Reg.,0.429,0.319,0.541
+PLS-DA+SVM,0.404,0.299,0.508
+PCA-LDA,0.396,0.287,0.511
+Random Forest,0.406,0.306,0.51
+1D-CNN,0.504,0.403,0.608
+Hybrid CNN-Tr.,0.407,0.307,0.51
+Pure Transformer,0.584,0.476,0.691
