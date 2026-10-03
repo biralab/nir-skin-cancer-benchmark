@@ -6,7 +6,6 @@ Not Architecture — Govern Clinical Readiness" (Journal of Imaging
 Informatics in Medicine, major revision R1).
 
 Repository: https://github.com/biralab/nir-skin-cancer-benchmark
-A DOI-minted archive (Zenodo) will be linked upon acceptance.
 
 ## Data (not included — public sources)
 - NIR-SC-UFES: Mendeley Data, doi:10.17632/j9773cyr3k.1 (714 spectra / 331
